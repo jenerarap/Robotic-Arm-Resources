@@ -19,6 +19,7 @@ Power Supply 6V (9V recommended)
 Switch
 
 DIY / 3D Printed Frame
+
 //All the bolts used are 5mm. For the length you can adjust it yourself by cutting as we did on video.
 
 //Power sourcec is 6V. If you want to longer the lifespan a 9V battery or rechargeable batteries recommended; WARNING! Keep in mind that you should use voltage regulator if you switch to 9V
